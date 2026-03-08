@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "zoom.us",
+        "webex.com",
+        "meet.google.com"
+      ],
+      "domain_keyword": [
+        "meet",
+        "webex",
+        "zoom"
+      ]
+    }
+  ]
+}
