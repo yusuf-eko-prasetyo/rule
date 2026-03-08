@@ -1,0 +1,13 @@
+payload:
+#
+# Zoom
+#
+  - DOMAIN,zoom.us
+  - DOMAIN-SUFFIX,zoom.us
+  - DOMAIN-KEYWORD,zoom
+#
+# Webex
+#
+  - DOMAIN,webex.com
+  - DOMAIN-SUFFIX,webex.com
+  - DOMAIN-KEYWORD,webex

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "neliti.com",
+        "garuda.kemdiktisaintek.go.id",
+        "linkedin.com",
+        "flashscore.com",
+        "goal.com"
+      ],
+      "domain_keyword": [
+        "neliti",
+        "kemdik",
+        "kemendik",
+        "linkedin",
+        "flashscore",
+        "goal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+payload:
+#
+# BPJS
+#
+  - DOMAIN,bpjs-kesehatan.go.id
+  - DOMAIN-SUFFIX,bpjs-kesehatan.go.id
+  - DOMAIN-KEYWORD,jkn
+  - DOMAIN-KEYWORD,bpjs
+#
+# School
+#
+  - DOMAIN,ugm.ac.id
+  - DOMAIN,neliti.com
+  - DOMAIN,garuda.kemdiktisaintek.go.id
+  - DOMAIN-SUFFIX,ugm.ac.id
+  - DOMAIN-SUFFIX,neliti.com
+  - DOMAIN-SUFFIX,garuda.kemdiktisaintek.go.id
+  - DOMAIN-KEYWORD,simaster
+  - DOMAIN-KEYWORD,ugm
+  - DOMAIN-KEYWORD,neliti
+  - DOMAIN-KEYWORD,kemdikti
+  - DOMAIN-KEYWORD,kemendik
+#
+# NTP Time
+#
+  - DOMAIN-SUFFIX,pool.ntp.org
+  - DOMAIN-SUFFIX,0.id.pool.ntp.org
+  - DOMAIN-SUFFIX,1.id.pool.ntp.org
+  - DOMAIN-SUFFIX,2.id.pool.ntp.org
+  - DOMAIN-SUFFIX,3.id.pool.ntp.org
+  - DOMAIN-SUFFIX,ntp-servers.net
+  - DOMAIN-SUFFIX,time.google.com
+  - DOMAIN-SUFFIX,time.apple.com
+  - DOMAIN-SUFFIX,time.aws.com
+  - DOMAIN-SUFFIX,time.cloudflare.com
+  - DOMAIN-SUFFIX,time.facebook.com
+  - DOMAIN-SUFFIX,jam.bmkg.go.id
+  - DOMAIN-KEYWORD,ntp
+  - DOMAIN-KEYWORD,time
+  - DOMAIN-KEYWORD,jam
+#
+# WEB ID
+#
+  - DOMAIN-KEYWORD,.co.id
+  - DOMAIN-KEYWORD,.ac.id
+  - DOMAIN-KEYWORD,.or.id
+  - DOMAIN-KEYWORD,.go.id
+  - DOMAIN-KEYWORD,.my.id
+  - DOMAIN-KEYWORD,.web.id
+  - DOMAIN-KEYWORD,.biz.id
+  - DOMAIN-KEYWORD,.net.id

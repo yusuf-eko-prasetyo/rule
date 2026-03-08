@@ -1,0 +1,41 @@
+payload:
+#
+# Tiketing, Hotel, Travel
+#
+  - DOMAIN,tiket.com
+  - DOMAIN-SUFFIX,tiket.com
+  - DOMAIN-KEYWORD,tiket
+  - DOMAIN,traveloka.com
+  - DOMAIN-SUFFIX,traveloka.com
+  - DOMAIN-KEYWORD,traveloka
+  - DOMAIN,booking.com
+  - DOMAIN-SUFFIX,booking.com
+  - DOMAIN-KEYWORD,booking
+  - DOMAIN,airbnb.com
+  - DOMAIN,airbnb.co.id
+  - DOMAIN-SUFFIX,airbnb.com
+  - DOMAIN-SUFFIX,airbnb.co.id
+  - DOMAIN-KEYWORD,airbnb
+  - DOMAIN,agoda.com
+  - DOMAIN-SUFFIX,agoda.com
+  - DOMAIN-SUFFIX,agoda.net
+  - DOMAIN-KEYWORD,agoda
+  - DOMAIN,trivago.co.id
+  - DOMAIN-SUFFIX,trivago.co.id
+  - DOMAIN-KEYWORD,trivago
+  - DOMAIN,trip.com
+  - DOMAIN-SUFFIX,trip.com
+  - DOMAIN-KEYWORD,trip
+#
+# Kereta
+#
+  - DOMAIN,kai.id
+  - DOMAIN-SUFFIX,kai.id
+  - DOMAIN-SUFFIX,commuterline.id
+#
+# Bioskop
+#
+  - DOMAIN-SUFFIX,tix.id
+  - DOMAIN-KEYWORD,tix
+  - DOMAIN-SUFFIX,cgv.id
+  - DOMAIN-KEYWORD,cgv

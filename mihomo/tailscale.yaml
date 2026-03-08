@@ -1,0 +1,11 @@
+payload:
+#
+# Tailscale
+#
+  - DOMAIN,tailscale.com
+  - DOMAIN-SUFFIX,tailscale.com
+  - DOMAIN-SUFFIX,tailscale.io
+  - DOMAIN-KEYWORD,tailscale
+  - PROCESS-NAME,tailscale
+  - PROCESS-NAME,tailscaled
+

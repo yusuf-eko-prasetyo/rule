@@ -1,0 +1,46 @@
+payload:
+
+#- SRC-IP-CIDR,IP_Terhubung/32,REJECT #Block IP Pengguna
+
+#
+# Reject
+#
+  - DOMAIN-SUFFIX,onlyfans.com
+  - DOMAIN-SUFFIX,fansly.com
+  - DOMAIN-SUFFIX,my.club
+  - DOMAIN-SUFFIX,fancentro.com
+  - DOMAIN-SUFFIX,patreon.com
+  - DOMAIN-SUFFIX,mym.fans
+  - DOMAIN-SUFFIX,justfor.fans
+  - DOMAIN-SUFFIX,mysteryapp.net
+  - DOMAIN-SUFFIX,manyvids.com
+  - DOMAIN-SUFFIX,unlockedfans.com
+  - DOMAIN-SUFFIX,fanvue.com
+  - DOMAIN-SUFFIX,stripchat.com
+  - DOMAIN-SUFFIX,camsoda.com
+  - DOMAIN-SUFFIX,chinababe.net
+  - DOMAIN-SUFFIX,sexkbj.com
+  - DOMAIN-SUFFIX,koreanbj.club
+  - DOMAIN-SUFFIX,panda.chaika.moe
+  - DOMAIN-SUFFIX,e-hentai.org
+  - DOMAIN-KEYWORD,sex
+  - DOMAIN-KEYWORD,porn
+  - DOMAIN-KEYWORD,xxx
+  - DOMAIN-KEYWORD,jav
+  - DOMAIN-KEYWORD,hentai
+  - DOMAIN-KEYWORD,doujin
+  - DOMAIN-KEYWORD,onlyfans
+  - DOMAIN-KEYWORD,fansly
+  - DOMAIN-KEYWORD,my.club
+  - DOMAIN-KEYWORD,fancentro
+  - DOMAIN-KEYWORD,patreon
+  - DOMAIN-KEYWORD,mym.fans
+  - DOMAIN-KEYWORD,justfor.fans
+  - DOMAIN-KEYWORD,mysteryapp
+  - DOMAIN-KEYWORD,manyvids
+  - DOMAIN-KEYWORD,unlockedfans
+  - DOMAIN-KEYWORD,fanvue
+  - DOMAIN-KEYWORD,mysteryapp
+  - DOMAIN-KEYWORD,stripchat
+  - DOMAIN-KEYWORD,camsoda
+  

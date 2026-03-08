@@ -1,0 +1,118 @@
+payload:
+#
+# Paypal
+#
+  - DOMAIN-KEYWORD,paypal
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,paypalobjects.com
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-KEYWORD,paypal
+#
+# Isaku
+#
+  - DOMAIN-SUFFIX,i-saku.com
+  - DOMAIN-KEYWORD,i-saku
+#
+# OVO
+#
+  - DOMAIN-SUFFIX,ovo.id
+  - DOMAIN-KEYWORD,ovo.id
+#
+# LinkAja
+#
+  - DOMAIN-SUFFIX,linkaja.com
+  - DOMAIN-SUFFIX,linkaja.id
+  - DOMAIN-KEYWORD,linkaja
+#
+# Dana
+#
+  - DOMAIN-SUFFIX,split.io
+  - DOMAIN-SUFFIX,mixpanel.com
+  - DOMAIN-SUFFIX,dana.id
+  - DOMAIN-SUFFIX,innov8.id
+  - DOMAIN-KEYWORD,dana
+  - DOMAIN-SUFFIX,m.dana.id
+  - DOMAIN-SUFFIX,mgs-gw.m.dana.id
+  - DOMAIN-SUFFIX,mgs-gw.saas.dana.id
+  - DOMAIN-SUFFIX,a.m.dana.id
+#
+# Doku
+#
+  - DOMAIN-SUFFIX,doku.com
+  - DOMAIN-KEYWORD,doku
+#
+# BCA
+#
+  - DOMAIN-SUFFIX,bca.co.id
+  - DOMAIN-SUFFIX,klikbca.com
+  - DOMAIN-SUFFIX,blubybcadigital.id
+  - DOMAIN-SUFFIX,bcadigital.co.id
+  - DOMAIN-KEYWORD,blu
+  - DOMAIN-KEYWORD,bca
+  - DOMAIN-KEYWORD,bcadigital
+  - DOMAIN-KEYWORD,klikbca
+  - DOMAIN-SUFFIX,klikbca.com
+  - DOMAIN-SUFFIX,mbanktrans.klikbca.com
+  - DOMAIN-SUFFIX,mbankmon.klikbca.com
+  - DST-PORT,33303
+#
+# BRI (BRI Link,  BRImo, BRIcredit)
+#
+  - DOMAIN-SUFFIX,bri.co.id
+  - DOMAIN-KEYWORD,bri.co.id
+#
+# Mandiri
+#
+  - DOMAIN-SUFFIX,mandiri.co.id
+  - DOMAIN-KEYWORD,mandiri
+  - DOMAIN-KEYWORD,livin
+#
+# BSI
+#
+  - DOMAIN-SUFFIX,bankbsi.co.id
+  - DOMAIN-KEYWORD,bsi.co.id
+#
+# Flip
+#
+  - DOMAIN-SUFFIX,flip.id
+  - DOMAIN-KEYWORD,flip.id
+  - DOMAIN-KEYWORD,nexus-websocket-a.intercom.io
+  - DOMAIN-KEYWORD,mobile-sdk-api.intercom.io
+#
+# Jenius
+#
+  - DOMAIN-SUFFIX,jenius.com
+  - DOMAIN-SUFFIX,btpn.com
+  - DOMAIN-KEYWORD,app.btpn
+  - DOMAIN-KEYWORD,jenius-assets.jenius
+  - DOMAIN-KEYWORD,api.btpn
+  - DOMAIN-KEYWORD,btpn.com
+  - DOMAIN-KEYWORD,jenius.com
+#
+# Jago
+#
+  - DOMAIN-SUFFIX,jago.com
+  - DOMAIN-KEYWORD,jago
+#
+# Neo Bank
+#
+  - DOMAIN,bankneocommerce.co.id
+  - DOMAIN-SUFFIX,bankneocommerce.co.id
+  - DOMAIN-KEYWORD,neoecommerce
+#
+# GoPay/Gojek
+#
+  - DOMAIN-SUFFIX,gojek.com
+  - DOMAIN-SUFFIX,gobiz.co.id
+  - DOMAIN-KEYWORD,gojek
+  - DOMAIN-KEYWORD,gobiz
+  - DOMAIN-KEYWORD,gopay-topup
+  - DOMAIN-KEYWORD,gopay
+  - DOMAIN-SUFFIX,i.gojekapi.com
+  - DOMAIN-SUFFIX,racoon.gojekapi.com
+  - DOMAIN-SUFFIX,api.gojekapi.com
+#
+# Grab
+#
+  - DOMAIN-SUFFIX,grab.com
+  - DOMAIN-SUFFIX,grabtaxi.com

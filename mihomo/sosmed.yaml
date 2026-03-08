@@ -1,0 +1,72 @@
+payload:
+#
+# Facebook
+#
+  - DOMAIN,facebook.com
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,messenger.com
+  - DOMAIN-SUFFIX,msngr.com
+  - DOMAIN-KEYWORD,messenger
+  - DOMAIN-KEYWORD,fbaddins
+  - DOMAIN-KEYWORD,fbcdn
+  - DOMAIN-KEYWORD,fbsbx
+  - DOMAIN-KEYWORD,fbworkmail
+  - DOMAIN-KEYWORD,facebook
+#
+# Instagram
+#
+  - DOMAIN,instagram.com
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-KEYWORD,instagram
+#
+# Threads
+#
+  - DOMAIN,threads.net
+  - DOMAIN-SUFFIX,threads.net
+  - DOMAIN-KEYWORD,threads
+#
+# Twitter/X
+#
+  - DOMAIN,x.com
+  - DOMAIN,twitter.com
+  - DOMAIN,twimg.com
+  - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,abs.twimg.com
+#
+# TikTok
+#
+  - DOMAIN,tiktok.com
+  - DOMAIN-SUFFIX,tiktok.com
+  - DOMAIN-SUFFIX,tik-tokapi.com
+  - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-SUFFIX,ibytedtos.com
+  - DOMAIN-SUFFIX,ibyteimg.com
+  - DOMAIN-SUFFIX,ipstatp.com
+  - DOMAIN-SUFFIX,sgpstatp.com
+  - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-KEYWORD,tiktok
+  - DOMAIN-KEYWORD,ibytedtos
+  - DOMAIN-KEYWORD,ipstatp
+  - DOMAIN-KEYWORD,muscdn
+  - DOMAIN-KEYWORD,musical.ly
+#
+# Capcut
+#
+  - DOMAIN,capcut.com
+  - DOMAIN-SUFFIX,capcut.com
+  - DOMAIN-SUFFIX,ibyteimg.com
+  - DOMAIN-KEYWORD,capcut
+#
+# Snack Video
+#
+  - DOMAIN,snackvideo.com
+  - DOMAIN-SUFFIX,snackvideo.com
+  - DOMAIN-SUFFIX,snackvideo.in
+  - DOMAIN-SUFFIX,kwai.net
+  - DOMAIN-SUFFIX,kwai-pro.com
+  - DOMAIN-SUFFIX,kwaipros.net
+  - DOMAIN-KEYWORD,snackvideo
+  - DOMAIN-KEYWORD,snack
+  - DOMAIN-KEYWORD,kwai

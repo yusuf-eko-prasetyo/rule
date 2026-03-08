@@ -1,0 +1,57 @@
+payload:
+#
+# Linkedin
+#
+  - DOMAIN,linkedin.com
+  - DOMAIN-SUFFIX,linkedin.com
+  - DOMAIN-KEYWORD,linkedin
+#
+# Sport
+#
+  - DOMAIN,flashscore.com
+  - DOMAIN,goal.com
+  - DOMAIN-SUFFIX,flashscore.com
+  - DOMAIN-SUFFIX,goal.com
+  - DOMAIN-KEYWORD,flashscore
+  - DOMAIN-KEYWORD,goal
+#
+# Google
+#
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,g.co
+  - DOMAIN-SUFFIX,accounts.google.com
+  - DOMAIN-SUFFIX,developers.google.com
+  - DOMAIN-SUFFIX,support.google.com
+  - DOMAIN-SUFFIX,ads.google.com
+  - DOMAIN-SUFFIX,blog.google.com
+  - DOMAIN-SUFFIX,books.google.com
+  - DOMAIN-SUFFIX,business.google.com
+  - DOMAIN-SUFFIX,calendar.google.com
+  - DOMAIN-SUFFIX,chat.google.com
+  - DOMAIN-SUFFIX,classroom.google.com
+  - DOMAIN-SUFFIX,cloud.google.com
+  - DOMAIN-SUFFIX,contacts.google.com
+  - DOMAIN-SUFFIX,docs.google.com
+  - DOMAIN-SUFFIX,drive.google.com
+  - DOMAIN-SUFFIX,earth.google.com
+  - DOMAIN-SUFFIX,finance.google.com
+  - DOMAIN-SUFFIX,fonts.google.com
+  - DOMAIN-SUFFIX,forms.google.com
+  - DOMAIN-SUFFIX,gmail.google.com
+  - DOMAIN-SUFFIX,groups.google.com
+  - DOMAIN-SUFFIX,images.google.com
+  - DOMAIN-SUFFIX,keep.google.com
+  - DOMAIN-SUFFIX,mail.google.com
+  - DOMAIN-SUFFIX,maps.google.com
+  - DOMAIN-SUFFIX,meet.google.com
+  - DOMAIN-SUFFIX,news.google.com
+  - DOMAIN-SUFFIX,photos.google.com
+  - DOMAIN-SUFFIX,play.google.com
+  - DOMAIN-SUFFIX,scholar.google.com
+  - DOMAIN-SUFFIX,sites.google.com
+  - DOMAIN-SUFFIX,slides.google.com
+  - DOMAIN-SUFFIX,store.google.com
+  - DOMAIN-SUFFIX,translate.google.com
+  - DOMAIN-SUFFIX,trends.google.com
+  - DOMAIN-SUFFIX,voice.google.com
+  - DOMAIN-KEYWORD,maps

@@ -1,0 +1,41 @@
+payload:
+#
+# Provider/Operator
+#
+  - DOMAIN,telkomsel.com
+  - DOMAIN-SUFFIX,telkomsel.com
+  - DOMAIN-SUFFIX,my.telkomsel.com
+  - DOMAIN-KEYWORD,mobile.useinsider.com
+  - DOMAIN-KEYWORD,webportals.cachefly.net
+  - DOMAIN-KEYWORD,telkomsel
+  - DOMAIN-SUFFIX,www.byu.id
+  - DOMAIN-SUFFIX,byu.id
+  - DOMAIN-KEYWORD,byu.id
+  - DOMAIN-KEYWORD,by.u
+  - DOMAIN,xl.co.id
+  - DOMAIN,xlaxiata.co.id
+  - DOMAIN-SUFFIX,xl.co.id
+  - DOMAIN-SUFFIX,xlaxiata.co.id
+  - DOMAIN-SUFFIX,xlaxiata.id
+  - DOMAIN-KEYWORD,xlaxiata
+  - DOMAIN,axis.co.id
+  - DOMAIN-SUFFIX,axis.co.id
+  - DOMAIN-KEYWORD,axis
+  - DOMAIN,im3.id
+  - DOMAIN-SUFFIX,im3.id
+  - DOMAIN-KEYWORD,myim3
+  - DOMAIN-KEYWORD,media.kloc
+  - DOMAIN-KEYWORD,indosatooredoo
+  - DOMAIN-KEYWORD,im3
+  - DOMAIN-KEYWORD,indosat
+  - DOMAIN-KEYWORD,ooredoo
+  - DOMAIN,tri.co.id
+  - DOMAIN,bima.tri.co.id
+  - DOMAIN-SUFFIX,tri.co.id
+  - DOMAIN-SUFFIX,bima.tri.co.id
+  - DOMAIN-KEYWORD,tri
+  - DOMAIN-SUFFIX,ioh.co.id
+  - DOMAIN-KEYWORD,bima
+  - DOMAIN,smartfren.com
+  - DOMAIN-SUFFIX,smartfren.com
+  - DOMAIN-KEYWORD,smartfren

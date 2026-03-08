@@ -1,0 +1,15 @@
+payload:
+#
+# DNS
+#
+  - DOMAIN-SUFFIX,dns.google
+  - DOMAIN-SUFFIX,dns.cloudflare.com
+  - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-KEYWORD,dns.google
+  - DOMAIN-KEYWORD,dns.cloudflare
+  - DOMAIN-KEYWORD,cloudflare-dns
+  - PROCESS-NAME,https-dns-proxy
+  - IP-CIDR,8.8.8.8
+  - IP-CIDR,8.8.4.4
+  - IP-CIDR,1.1.1.1
+  - IP-CIDR,1.0.0.1
