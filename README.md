@@ -1,1 +1,1 @@
-# rule
+Config and Rule
