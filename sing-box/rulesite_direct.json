@@ -2,20 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "domain": [
-        "pool.ntp.org",
-        "0.id.pool.ntp.org",
-        "1.id.pool.ntp.org",
-        "2.id.pool.ntp.org",
-        "3.id.pool.ntp.org",
-        "ntp-servers.net",
-        "time.google.com",
-        "time.apple.com",
-        "time.aws.com",
-        "time.cloudflare.com",
-        "time.facebook.com",
-        "jam.bmkg.go.id"
-      ],
       "domain_suffix": [
         "pool.ntp.org",
         "0.id.pool.ntp.org",
