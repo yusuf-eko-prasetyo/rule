@@ -13,7 +13,8 @@
         "dns.cloudflare"
       ],
       "process_name": [
-        "https-dns-proxy"
+        "https-dns-proxy",
+        "AdGuardHome"
       ]
     }
   ]
